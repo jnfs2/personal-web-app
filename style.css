@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(235, 224, 176);
+    color: rgb(37, 42, 112);
+}
+header{
+    font-family: Arial, Helvetica, sans-serif;border: 2px dotted black; text-align: center;
+}
+
+
+
+
+a {
+    color: blueviolet;
+}
+
+
+
+
+a.google {
+    color: rgb(18, 1, 255);
+}
+
